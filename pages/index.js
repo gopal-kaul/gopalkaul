@@ -24,6 +24,7 @@ export default function Home() {
           src="/Gopal.png"
           width={450}
           height={450}
+          alt="Gopal Kaul"
         />
         <h1 className={styles.name}>Gopal Kaul</h1>
         <h2 className={styles.tag}>Full Stack Developer</h2>
